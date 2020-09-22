@@ -1,0 +1,21 @@
+{
+    "name": "rgxp",
+    "version": "0.0.1",
+
+    "description": "Readable and humanity RegExp for JavaScript",
+    "keywords": ["regexp"],
+    "license": "MIT",
+
+    "author": "Ivan Klimenko <ivan@yeswell.ru> (https://yeswell.ru)",
+
+    "homepage": "https://github.com/yeswell/rgxp",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yeswell/rgxp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yeswell/rgxp/issues"
+    },
+
+    "main": "main.js"
+}
